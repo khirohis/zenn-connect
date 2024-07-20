@@ -1,0 +1,12 @@
+{
+  "name": "zenn-connect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "khirohis (hirohisa.kobayasi @tmark gmail.com)",
+  "license": "MIT",
+  "description": "https://github.com/khirohis/zenn-connect",
+  "dependencies": {
+    "zenn-cli": "latest"
+  }
+}
